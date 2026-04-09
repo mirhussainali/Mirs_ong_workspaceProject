@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/mirhussainali
   gitUsername: mirhussainali
   gitBranch: main
+- name: ChevronDemo
+  gitServerName: mir_github
+  gitUrl: https://github.com/mirhussainali
+  gitUsername: mirhussainali
+  gitBranch: master
