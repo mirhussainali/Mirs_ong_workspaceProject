@@ -11,6 +11,10 @@ runtimes:
     type: flow
     stepId: /0
     reference: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.WmPackageServiceProvider.empservices:createEmployeeRecord
+  - name: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.integrations:EmpHiring_rejectHiring
+    type: flow
+    stepId: /0
+    reference: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.WmPackageServiceProvider.empservices:rejectHiring
 - runtimeAlias: mir_sc_transportation_ert
   assets:
   - name: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.integrations:processAzureActivityAlert
