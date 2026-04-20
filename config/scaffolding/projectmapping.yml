@@ -1,6 +1,12 @@
 version: "1.0"
 projectName: Mirs_ong_workspaceProject
 runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.integrations:EmpHiring_validateAndEnrich
+    type: flow
+    stepId: /0
+    reference: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.WmPackageServiceProvider.empservices:validateAndEnrich
 - runtimeAlias: mir_sc_transportation_ert
   assets:
   - name: fld_111480121_stage00.projects.fl4a42ddb28e09400ea488065545a0e537.integrations:processAzureActivityAlert
