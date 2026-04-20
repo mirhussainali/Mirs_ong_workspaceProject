@@ -8,7 +8,17 @@ packages:
   gitUsername: mirhussainali
   gitBranch: main
 - name: ChevronDemo
+  version: "1.0"
   gitServerName: mir_github
   gitUrl: https://github.com/mirhussainali
   gitUsername: mirhussainali
   gitBranch: master
+- name: EmployeeHiringDemo
+  gitServerName: mir_github
+  gitUrl: https://github.com/mirhussainali
+  gitUsername: mirhussainali
+  gitBranch: master
+security:
+- name: ChevronDemo
+  allowedServices: []
+  javaServiceSetting: ALL
