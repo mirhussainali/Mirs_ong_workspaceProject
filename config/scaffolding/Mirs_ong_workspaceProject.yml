@@ -13,11 +13,6 @@ packages:
   gitUrl: https://github.com/mirhussainali
   gitUsername: mirhussainali
   gitBranch: master
-- name: EmployeeHiringDemo
-  gitServerName: mir_github
-  gitUrl: https://github.com/mirhussainali
-  gitUsername: mirhussainali
-  gitBranch: master
 - name: EmpHiringDemo
   gitServerName: mir_github
   gitUrl: https://github.com/mirhussainali
