@@ -43,6 +43,11 @@
         <value name="value">US</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">SCO_BuyerContactName</value>
+        <value name="value">JOHN SMITH</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
