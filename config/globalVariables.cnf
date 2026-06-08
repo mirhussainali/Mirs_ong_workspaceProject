@@ -53,6 +53,11 @@
         <value name="value">713-555-0100</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">SCO_BuyerEmail</value>
+        <value name="value">jsmith@deepwateroil.com</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
