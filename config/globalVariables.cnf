@@ -18,6 +18,11 @@
         <value name="value">OILCOMPANY123</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">SCO_BuyerAddr1</value>
+        <value name="value">1500 OFFSHORE BOULEVARD</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
