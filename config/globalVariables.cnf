@@ -8,6 +8,11 @@
         <value name="value">7</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">SCO_BuyerName</value>
+        <value name="value">DEEPWATER OIL COMPANY</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
