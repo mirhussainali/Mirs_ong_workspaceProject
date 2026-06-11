@@ -58,6 +58,11 @@
         <value name="value">jsmith@deepwateroil.com</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">RFQ_ItemGroupType</value>
+        <value name="value">INSURANCE</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
