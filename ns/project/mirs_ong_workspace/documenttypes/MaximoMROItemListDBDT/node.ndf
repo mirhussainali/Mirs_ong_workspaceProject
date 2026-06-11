@@ -13,7 +13,7 @@
         <number name="createdDate" type="Long">1780866713824</number>
         <value name="lastModifiedBy">Mir.HussainAli@ibm.com</value>
         <value name="lastModifiedByUserId">9744588ad12144aaab9f885cd23f8211</value>
-        <number name="lastModifiedDate" type="Long">1781159736744</number>
+        <number name="lastModifiedDate" type="Long">1781211110185</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -420,6 +420,21 @@
             </record>
             <value name="is_public">false</value>
             <value name="field_name">AVG_LDTME</value>
+            <value name="field_type">object</value>
+            <value name="field_dim">0</value>
+            <value name="field_opt">true</value>
+            <value name="wrapper_type">java.lang.Integer</value>
+            <value name="nillable">true</value>
+            <value name="form_qualified">false</value>
+            <value name="is_global">false</value>
+          </record>
+          <record javaclass="com.wm.util.Values">
+            <value name="node_type">field</value>
+            <value name="node_subtype">unknown</value>
+            <record name="node_hints" javaclass="com.wm.util.Values">
+            </record>
+            <value name="is_public">false</value>
+            <value name="field_name">REC_AOQ</value>
             <value name="field_type">object</value>
             <value name="field_dim">0</value>
             <value name="field_opt">true</value>
