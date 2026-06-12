@@ -63,6 +63,11 @@
         <value name="value">INSURANCE</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">RFQ_TopNSuppliers</value>
+        <value name="value">2</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
