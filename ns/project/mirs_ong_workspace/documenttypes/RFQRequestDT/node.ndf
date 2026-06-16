@@ -13,7 +13,7 @@
         <number name="createdDate" type="Long">1781242924329</number>
         <value name="lastModifiedBy">Mir.HussainAli@ibm.com</value>
         <value name="lastModifiedByUserId">9744588ad12144aaab9f885cd23f8211</value>
-        <number name="lastModifiedDate" type="Long">1781242924329</number>
+        <number name="lastModifiedDate" type="Long">1781641575466</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -30,7 +30,7 @@
         <record name="node_hints" javaclass="com.wm.util.Values">
         </record>
         <value name="is_public">false</value>
-        <value name="field_name">rfqResponse</value>
+        <value name="field_name">rfqRequest</value>
         <value name="field_type">record</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -499,5 +499,6 @@
       </record>
     </array>
     <value name="modifiable">true</value>
+    <value name="updateRSD">true</value>
   </record>
 </Values>
