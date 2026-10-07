@@ -71,7 +71,7 @@
       </record>
       <record javaclass="com.wm.data.ISMemDataImpl">
         <value name="key">RFQ_ItemGroupType</value>
-        <value name="value">INSURANCE</value>
+        <value name="value">STOCK NEW</value>
         <value name="isSecure">false</value>
         <value name="isLinkedToVault">false</value>
       </record>
