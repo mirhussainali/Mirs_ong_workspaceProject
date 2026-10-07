@@ -105,6 +105,12 @@
         <value name="isSecure">true</value>
         <value name="isLinkedToVault">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">dbPort</value>
+        <value name="value">1433</value>
+        <value name="isSecure">false</value>
+        <value name="isLinkedToVault">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
