@@ -93,6 +93,12 @@
         <value name="isSecure">false</value>
         <value name="isLinkedToVault">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">dbUserName</value>
+        <value name="value">sa</value>
+        <value name="isSecure">false</value>
+        <value name="isLinkedToVault">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
